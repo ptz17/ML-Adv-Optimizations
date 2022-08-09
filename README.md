@@ -12,4 +12,4 @@ Hw 5 - Mirror Descent for Simplex-Constrained Least Mean Square problem \
 Hw 6 - Proximal Gradient Descent for Compressed Sensing problem \
 Hw 7 - Accelerated Gradient Descent for Least Mean Square problem & Accelerated Proximal Gradient Descent for Compressed Sensing problem \
 Hw 8 - Extract moving objects from video with Robust Principle Component Analysis \
-Hw 9 - Stochastic Gradient Descent for Least Mean Square problem \
+Hw 9 - Stochastic Gradient Descent for Least Mean Square problem 
